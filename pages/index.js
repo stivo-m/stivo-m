@@ -1,4 +1,5 @@
 import Head from "next/head";
+import AboutSection from "../components/about/AboutSection";
 import HeroSection from "../components/hero/HeroSection";
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
 
 			<main className='flex flex-col items-center justify-center w-full flex-1  text-center '>
 				<HeroSection />
+				<AboutSection />
 			</main>
 		</div>
 	);

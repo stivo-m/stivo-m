@@ -1,5 +1,6 @@
 import React from "react";
 import Navigation from "../navigation/Navigation";
+import DottedLabel from "../shared/DottedLabel";
 
 function HeroSection() {
 	return (
@@ -24,7 +25,7 @@ function HeroSection() {
 				{/* right description */}
 				<div className='items-start text-left lg:ml-5 flex-1'>
 					{/* introduction tagline  */}
-					<p className='text-gray-500 font-bold '>-- Introduction</p>
+					<DottedLabel text={"Introduction"} />
 					<h3 className='text-white font-bold text-4xl mt-2 mb-5'>
 						Product designer and developer
 					</h3>
