@@ -44,7 +44,7 @@
 
 ---
 
-<img align="left" alt="stivo-m's GitHub Stats" src="https://github-readme-stats.stivo-m.vercel.app/api?username=stivo-m&show_icons=true&hide_border=true" />
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stivo-m)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/StevenM22484877
 [instagram]: https://www.instagram.com/stivo_maich/
