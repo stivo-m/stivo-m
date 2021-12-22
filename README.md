@@ -2,5 +2,5 @@
 
 ## I am a professional software engineer
 
-- I'm currently working on my portfolio website
+- Currently working on my portfolio website
 - Currently reading the book -> Code Complete
