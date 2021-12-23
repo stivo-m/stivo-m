@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hi, let&#39;s get to know each other](https://techzette.herokuapp.com/hi-lets-get-to-know-each-other/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://techzette.herokuapp.com/)
