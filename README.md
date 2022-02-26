@@ -50,6 +50,9 @@
 
 ---
 
+<br />
+<br />
+
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stivo-m)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/StevenM22484877
