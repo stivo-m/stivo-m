@@ -1,4 +1,4 @@
-### Hi there, I'm Steven Maina 👋
+# Hi there, I'm Steven Maina 👋
 
 ## I'm a software engineer
 
